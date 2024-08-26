@@ -2,7 +2,6 @@
 manufacturer:
     - huawei
 
----
 
 
 ### App Launch on some EMUI 8, 9 and 10 devices (Huawei P20, Huawei P20 Lite, Huawei Mate 10...)
